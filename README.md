@@ -5,6 +5,9 @@
 
 A virtual assistant, also called an AI assistant or digital assistant, is an application program that understands natural language voice commands and completes tasks for the user. Virtual Assistant using Python. We all know what is Virtual Assistant. If you don’t, don’t worry, open your mobile and say “Ok Google” or “Hey Siri”. Well, Google Assistant, Siri, Alexa all these are example of Virtual Assistant.
 
+<br>
+<p align="center"><img src="https://image.freepik.com/free-vector/users-buying-smart-speaker-applications-online-illustration_335657-362.jpg" alt="Jinnie-TheVirtualAssistant"></p>
+
 ## ✨ About Jinnie
 > I'm Jinnie aka Aladin ka Jin, naam to suna hoga. The ever impressive, the long contained, often imitated, but never duplicated … Jinnie of the lamp 🔮!
 
@@ -20,7 +23,7 @@ A virtual assistant, also called an AI assistant or digital assistant, is an app
 - Wikipedia
 ``pip install wikipedia``
 - pyaudio
-- 
+
 ## 💬 Try it!
 - [Fork]() the repo or [download](https://github.com/Aayushi-Mittal/Jinnie-TheVirtualAssistant/archive/refs/heads/main.zip) the zip file! ⬇
 - Run it on VS Code or Python IDLE. 💻
